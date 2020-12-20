@@ -43,6 +43,9 @@ class Car():
     def describe(self):
         print('My car brand is {} and its model is {} and {}'.format(self.brand, self.model, self.motion))
 
+# *****************************
+# *****************************
+# * Some Practices
 
 myCar = Car('BMW', 'X6')
 print(myCar.describe())
@@ -56,3 +59,13 @@ myCar.breake()
 print('Speed is {}'.format(str(myCar.speed)))
 print(myCar.describe())
 
+myName = 'Mehrnoush'
+myAge = 38
+someText = 'My name is %s and I am %s' % (myName, myAge)
+print(someText)
+
+myString = '''This is 
+Multi line '''
+print(myString)
+
+print('Hello') if myAge < 38 else print('Goodby')
