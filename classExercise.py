@@ -43,9 +43,7 @@ class Car():
     def describe(self):
         print('My car brand is {} and its model is {} and {}'.format(self.brand, self.model, self.motion))
 
-# *****************************
-# *****************************
-# * Some Practices
+
 
 myCar = Car('BMW', 'X6')
 print(myCar.describe())
@@ -59,13 +57,51 @@ myCar.breake()
 print('Speed is {}'.format(str(myCar.speed)))
 print(myCar.describe())
 
+# *****************************
+# *****************************
+# * Some Practices
+
+# *  Text formmating using %
 myName = 'Mehrnoush'
 myAge = 38
 someText = 'My name is %s and I am %s' % (myName, myAge)
 print(someText)
 
+# * Multi-Line Text
 myString = '''This is 
 Multi line '''
 print(myString)
 
+# * Python Ternary
 print('Hello') if myAge < 38 else print('Goodby')
+
+# * Using Trye    Except    Finally    in For Loops
+i = 0
+for i in range(5):
+    print('----------------')
+    try:
+        print(10 / (i - 3))
+    except ZeroDivisionError:
+        print('Division by zero')
+    finally:
+        print('I am awsome')
+    print(i)
+
+# * Enumerate function in For Loops
+my_name = 'Mehrnoush'
+for i, c in enumerate(my_name):
+    print(i, c)
+
+# * Create a rectangle class
+class Rectangle:
+    def __init__(self, height, width):
+        self.height = height
+        self.width = width
+    def area(self):
+        return self.height * self.width
+    def peremiter(self):
+        return 2 * (self.height + self.width)
+
+my_rectangle = Rectangle(30, 50)
+print(my_rectangle.area())
+print(my_rectangle.peremiter())
