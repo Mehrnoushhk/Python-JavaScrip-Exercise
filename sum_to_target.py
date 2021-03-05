@@ -1,8 +1,15 @@
+def solution(nums, target):
+    nums_dict = {}
+    for idx, num in enumerate(nums):
+        if (target - num) in nums_dict:
+            return [nums_dict[target - num], idx]
+        else:
+            nums_dict[num] = idx
+
+
+
+
 nums = [14, 13, 6, 7, 8, 10, 1, 2]
-target = 3
-nums.sort()
-pointer = round(len(nums) / 2)
-while true:
-    if target <= nums[pointer]:
-        pointer = round(pointet / 2)
-    else:
+target = 9
+
+print(solution(nums, target))
