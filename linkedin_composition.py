@@ -35,5 +35,5 @@ book_1.add_chapter(chapter_2)
 book_1.add_chapter(chapter_3)
 
 print(book_1.title)
-print(book_1.author)
+print(book_1.author.fname)
 print(book_1.get_page_count())

@@ -1,0 +1,16 @@
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/bin/Debug/net5.0/First
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/bin/Debug/net5.0/First.deps.json
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/bin/Debug/net5.0/First.runtimeconfig.json
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/bin/Debug/net5.0/First.runtimeconfig.dev.json
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/bin/Debug/net5.0/First.dll
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/bin/Debug/net5.0/ref/First.dll
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/bin/Debug/net5.0/First.pdb
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/First.csprojAssemblyReference.cache
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/First.AssemblyInfoInputs.cache
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/First.AssemblyInfo.cs
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/First.csproj.CoreCompileInputs.cache
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/First.dll
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/ref/First.dll
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/First.pdb
+/home/mehrnoosh/Programming Projects/Python-JavaScript/Python-JavaScrip-Exercise/First/obj/Debug/net5.0/First.genruntimeconfig.cache
